@@ -32,6 +32,7 @@ modules:
         - chezmoi    # We'll need this for lab 5
         - tmux
         - htop
+        - cowsay
     remove:
       packages:
         # example: removing firefox (in favor of the flatpak)
